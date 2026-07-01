@@ -29,5 +29,5 @@ R tutorials require: `Seurat`, `SeuratData`, `CellChat`
 
 ## About
 
-Posts are written by iwlee. All code is executed before publication.  
+Posts are written by Lociven. All code is executed before publication.  
 Full writeups at [spatiabio.com](https://www.spatiabio.com).
