@@ -13,6 +13,9 @@ Code and notebooks from [spatiabio.com](https://www.spatiabio.com) — a blog co
 | 5 | [Spatially Variable Genes with Squidpy: Moran's I](https://www.spatiabio.com/2026/06/spatially-variable-genes-with-squidpy.html) | [svg-morans-i/svg_morans_i.ipynb](svg-morans-i/svg_morans_i.ipynb) |
 | 6 | [Visualizing Spatially Variable Genes with Squidpy](https://www.spatiabio.com/2026/06/visualizing-spatially-variable-genes-on.html) | [svg-visualization/svg_visualization.ipynb](svg-visualization/svg_visualization.ipynb) |
 | 7 | [Neighborhood Enrichment Analysis with Squidpy](https://www.spatiabio.com/2026/07/neighborhood-enrichment-analysis-with.html) | [nhood-enrichment/nhood_enrichment.ipynb](nhood-enrichment/nhood_enrichment.ipynb) |
+| 8 | [Co-occurrence Analysis with Squidpy](https://www.spatiabio.com/2026/07/co-occurrence-analysis-squidpy.html) | [co-occurrence/co_occurrence.ipynb](co-occurrence/co_occurrence.ipynb) |
+| 9 | [Ligand-Receptor Interactions with Squidpy](https://www.spatiabio.com/2026/07/ligand-receptor-interactions-squidpy.html) | [ligrec/ligrec.ipynb](ligrec/ligrec.ipynb) |
+| 10 | [Complete Squidpy Spatial Transcriptomics Workflow](https://www.spatiabio.com/2026/07/complete-squidpy-spatial-transcriptomics.html) | [complete-workflow/complete_workflow.ipynb](complete-workflow/complete_workflow.ipynb) |
 
 ## Data
 
