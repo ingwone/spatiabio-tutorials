@@ -16,6 +16,30 @@ Code and notebooks from [spatiabio.com](https://www.spatiabio.com) — a blog co
 | 8 | [Co-occurrence Analysis with Squidpy](https://www.spatiabio.com/2026/07/co-occurrence-analysis-with-squidpy.html) | [co-occurrence/co_occurrence.ipynb](co-occurrence/co_occurrence.ipynb) |
 | 9 | [Ligand-Receptor Interactions with Squidpy](https://www.spatiabio.com/2026/07/ligand-receptor-interactions-in-spatial.html) | [ligrec/ligrec.ipynb](ligrec/ligrec.ipynb) |
 | 10 | [Complete Squidpy Spatial Transcriptomics Workflow](https://www.spatiabio.com/2026/07/complete-squidpy-spatial.html) | [complete-workflow/complete_workflow.ipynb](complete-workflow/complete_workflow.ipynb) |
+| 21 | [I Gave Claude Science One Prompt. It Ran a Full Spatial Analysis.](https://www.spatiabio.com/2026/07/i-gave-claude-science-one-prompt-it-ran.html) | — |
+
+## Pack 1 — Squidpy Foundations (16 notebooks, $19)
+
+Available at [lociven.gumroad.com/l/squidpy-pack](https://lociven.gumroad.com/l/squidpy-pack)
+
+| # | Notebook | Topic |
+|---|----------|-------|
+| 00 | `00_environment_setup.ipynb` | Conda setup, package versions, Space Ranger structure |
+| 01 | `01_setup_data_loading.ipynb` | Loading AnnData, QC metrics, coordinate validation |
+| 02 | `02_clustering.ipynb` | Normalization, PCA, Leiden clustering, marker genes |
+| 03 | `03_spatial_neighbors.ipynb` | Delaunay vs kNN vs radius graphs, coord_type selection |
+| 03b | `03b_large_dataset_memory.ipynb` | Chunked processing, sparse matrices, memory optimization |
+| 04 | `04_neighborhood_enrichment.ipynb` | nhood_enrichment, z-score interpretation, n_perms guide |
+| 05 | `05_co_occurrence.ipynb` | Co-occurrence vs distance, peak analysis, decay curves |
+| 06 | `06_spatial_autocorrelation.ipynb` | Moran's I, spatially variable genes, Geary's C |
+| 06b | `06b_batch_correction_spatial.ipynb` | Harmony, BBKNN, cross-sample nhood_enrichment |
+| 07 | `07_ligrec.ipynb` | Ligand-receptor analysis, CellPhoneDB, spatial filtering |
+| 08 | `08_svg_visualization.ipynb` | Custom colormaps, multi-panel figures, publication formatting |
+| 09 | `09_squidpy_vs_seurat.ipynb` | Side-by-side comparison, benchmark timings |
+| 10 | `10_complete_workflow.ipynb` | End-to-end pipeline in one notebook |
+| 11 | `11_result_interpretation.ipynb` | Biological interpretation guide, methods text template |
+| 12 | `12_common_errors_debug.ipynb` | Error diagnosis and fixes for all common failures |
+| 13 | `13_publication_figures.ipynb` | Nature-style 3-panel figures, DPI/font/colormap standards |
 
 ## Data
 

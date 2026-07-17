@@ -1,0 +1,13 @@
+# Credentials — never commit
+token.json
+client_secret*.json
+*credentials*.json
+*service-account*.json
+.env
+*.pem
+*.key
+id_rsa*
+
+# OS/editor
+.DS_Store
+Thumbs.db
